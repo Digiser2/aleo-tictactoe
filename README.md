@@ -1,5 +1,4 @@
-Made by Digiser2
-Discord: serhiishylo
+Made by Digiser2 / Discord: serhiishylo
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
